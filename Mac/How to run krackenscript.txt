@@ -1,0 +1,19 @@
+Due to macOS restrictions, running this app requires a few manual steps.
+
+To run the app on macOS 15 and later:
+1) Double click on the app file (krackenscript in the same folder as this document), then press "Done" when the warning appears
+2) Open macOS System Settings
+3) Go to the "Privacy & Security" section
+4) Scroll to the bottom
+5) By "krackenscript was blocked to protect your Mac", press "Open Anyway"
+6) In the prompt that appears, press "Open Anyway"
+
+To run the app on macOS 14 and earlier:
+1) Control+click on the app file (krackenscript in the same folder as this document) and select "Open".
+2) If a warning appears, select "Open" if it's an option.
+3) If a warning appears but "Open" isn't an option, press "Cancel" and repeat from step 1.
+   The open button will appear the second time the warning appears.
+
+After completing these steps, the app should run without any further warnings.
+
+Feel free to drag the app into your Applications folder.
