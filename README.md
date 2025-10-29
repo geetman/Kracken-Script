@@ -1,4 +1,8 @@
-**Commands**
+**#Note#**
+
+Please use the html, MAC, or Web Type
+
+**#Commands#**
 
 
 delallvars() - deletes all variables 
