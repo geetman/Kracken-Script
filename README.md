@@ -1,8 +1,8 @@
-**#Note#**
+# Note
 
 Please use the html Type
 
-**#Commands#**
+# Commands
 
 
 delallvars() - deletes all variables 
