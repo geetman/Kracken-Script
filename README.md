@@ -1,6 +1,6 @@
 **#Note#**
 
-Please use the html, MAC, or Web Type
+Please use the html Type
 
 **#Commands#**
 
